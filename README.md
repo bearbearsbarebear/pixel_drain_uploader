@@ -1,2 +1,5 @@
-# pixel_drain_uploader
-Uploads file to pixel drain.
+# Pixel Drain Uploader
+A simple command-line tool to upload a file to pixel drain using their API.
+
+## Usage
+>uploader.exe file
